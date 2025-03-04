@@ -1,4 +1,3 @@
-## Hi there 👋
 ## Personal Projects
 -  [Continuous GOL](https://github.com/bfaum/continuous_GOL) — 
 ## 🛠 Notable Contributions
