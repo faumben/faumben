@@ -6,7 +6,7 @@ I am interested in software engineering, backend, infrastructure, systems, and d
 
 ## Selected work
 
-### Polygra — real-time multiplayer browser game
+### [Polygra — real-time multiplayer browser game](https://polygra.polygra.workers.dev/)
 
 Built and deployed a TypeScript game using Cloudflare Workers, Durable Objects, D1, and WebSockets.
 
